@@ -6,7 +6,7 @@
 
 
 def calculate(mark):
-    # This program calculates the user's mark as a %
+    # This function calculates the user's mark as a %
 
     # Process
     if mark == "4+":
